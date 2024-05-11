@@ -1,1 +1,1 @@
-# js-photosphere-examples
+# js-photosphere-view-examples
